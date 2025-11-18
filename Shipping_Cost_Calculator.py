@@ -1,5 +1,4 @@
 # Here is a new update by YolandaMN
-# Here is another update by YolandaMN
 
 # Shipping Cost Calculator
 
